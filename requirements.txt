@@ -122,7 +122,7 @@ pyobjc-framework-VideoSubscriberAccount==6.1
 pyobjc-framework-VideoToolbox==6.1
 pyobjc-framework-Vision==6.1
 pyobjc-framework-WebKit==6.1
-requests==2.22.0
+requests==2.31.0
 six==1.13.0
 soupsieve==1.9.5
 SpeechRecognition==3.8.1
